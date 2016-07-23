@@ -11,6 +11,8 @@ The other plugins in this pack work with the CVImageLink type, generally generat
 
 Elliot Woods (www.kimchiandchips.com)
 
+This fork is attempting to make image pack VPM friendly, by splitting each smaller projects in this pack into its own package. So the less savvvvy can use an up-to-date and both x86 and x64 version.
+
 Credits
 =======
 Thanks for vux, alg and Elias. Thanks also to the other core VVVV developers and users.
