@@ -37,7 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FeralTic">
-      <HintPath>..\..\..\..\dependencies\FeralTic.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\dx11\core\FeralTic.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=AMD64">
@@ -80,11 +80,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="VVVV.DX11.Core">
-      <HintPath>..\..\..\..\dependencies\VVVV.DX11.Core.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\dx11\core\VVVV.DX11.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="VVVV.DX11.Lib">
-      <HintPath>..\..\..\..\dependencies\VVVV.DX11.Lib.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\dx11\core\VVVV.DX11.Lib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="VVVV.Utils, Version=34.0.0.0, Culture=neutral, processorArchitecture=MSIL">
