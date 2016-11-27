@@ -132,6 +132,9 @@
     <Compile Include="src\Calibration\IntrinsicsSplitNode.cs" />
     <Compile Include="src\Calibration\IntrinsicsJoinNode.cs" />
     <Compile Include="src\Calibration\ProjectPointsNode.cs" />
+    <Compile Include="src\Filters\DrawShapeDetection.cs" />
+    <Compile Include="src\Filters\DrawContour.cs" />
+    <Compile Include="src\Tracking\DetectShape.cs" />
     <Compile Include="src\Tracking\DetectPedestrian.cs" />
     <None Include="packages.config" />
     <None Include="src\Features\Stitch.cs" />
